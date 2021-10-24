@@ -62,6 +62,3 @@ class Plant(db.Model):
             "is_poisonous": self.is_poisonous,
             "primary_color": self.primary_color,
         }
-© 2021 GitHub, Inc.
-Terms
-Privacy
